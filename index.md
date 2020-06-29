@@ -13,3 +13,7 @@ one of the three central characters in the original Star Trek series and its fil
 * ability to mind-meld (share thoughts and memories with others)
 * loves playing three-dimensional chess
 
+
+> Computers make excellent and efficient servants, 
+> but I have no wish to serve under them.
+
