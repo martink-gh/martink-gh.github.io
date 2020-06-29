@@ -5,3 +5,11 @@ first appeared in the original Star Trek series serving aboard the starship Ente
 and later as commanding officer of two iterations of the vessel. Spock's mixed human-Vulcan heritage serves as an important 
 plot element in many of the character's appearances. Along with Captain James T. Kirk and Dr. Leonard "Bones" McCoy, he is 
 one of the three central characters in the original Star Trek series and its films.
+
+## Character traits of Mr. Spock
+* logical
+* calm
+* stoic
+* ability to mind-meld (share thoughts and memories with others)
+* loves playing three-dimensional chess
+
